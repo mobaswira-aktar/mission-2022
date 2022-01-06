@@ -141,5 +141,24 @@ img {
   margin: 100px 0px;
 }
 .section4 {
-    margin: 100px 0px;
-  }
+  margin: 100px 0px;
+}
+
+/* fooer area  */
+footer {
+  background: #0b0d17;
+  padding: 40px 0;
+  text-align: center;
+}
+
+footer h3 {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: "Lobster", cursive;
+  font-weight: 400;
+}
+
+footer p {
+  color: #d9dbe1;
+  font-size: 15px;
+}
