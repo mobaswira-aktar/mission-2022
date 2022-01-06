@@ -1,0 +1,94 @@
+/* main custom css  */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  width: 85%;
+  /* max-width: 1140px; */
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.top-heading {
+  padding-left: 15px;
+  border-left: 5px solid #ff5959;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.span-color {
+  color: #ffad5a !important;
+}
+.margin-bottom {
+  margin-bottom: 25px !important;
+}
+
+.my-btn {
+  color: #ffffff;
+  font-size: 16px;
+  background-color: #ff5959;
+  padding: 10px 28px;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.align-center {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+/* colum row style   */
+.col-50 {
+  width: 50%;
+  height: auto;
+}
+.col-40 {
+  height: auto;
+  width: 40%;
+}
+.col-60 {
+  height: auto;
+  width: 60%;
+}
+.col-25 {
+  height: auto;
+  width: 25%;
+  margin: 0 10px 100px 10px;
+  text-align: center;
+  background: #ff5959;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.some-space-right {
+  padding: 0 100px 0 0;
+}
+.some-space-left {
+  padding: 0 0 0 100px;
+}
+/* Hero section  */
+
+.hero h1 {
+  color: #353535;
+  font-size: 55px;
+  font-family: "Yeseva One", cursive;
+  font-weight: 400;
+  line-height: 0.75;
+  margin: 0;
+}
+
+.hero p {
+  color: #383838;
+  font-size: 18px;
+  margin-bottom: 26px;
+  margin-top: 26px;
+}
