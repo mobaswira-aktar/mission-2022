@@ -112,7 +112,7 @@ p {
   margin: 15px;
 }
 .box img {
-  max-height: 80px;
+  max-height: 100px;
 }
 .box h3 {
   color: #333333;
@@ -124,17 +124,18 @@ p {
   color: #353535;
   font-size: 16px;
   margin: 0;
+  text-align: justify;
 }
 .bg-box-1 {
-  background: #f8e3ff;
+  background: #eef6f7;
 }
 
 .bg-box-2 {
-  background: #e5ecff;
+  background: #ffefef;
 }
 
 .bg-box-3 {
-  background: #ffefd8;
+  background: #fff4d6;
 }
 
 /* section 3 & 4 margin  */
