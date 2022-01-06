@@ -144,8 +144,14 @@ p {
 .section4 {
   margin: 100px 0px;
 }
+h2.sec-h2 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 45px;
+}
 
-/* fooer area  */
+/* footer area  */
 footer {
   background: #0b0d17;
   padding: 40px 0;
