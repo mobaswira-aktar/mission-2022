@@ -86,11 +86,12 @@ img {
   margin: 0;
 }
 
-.hero p {
+p {
   color: #383838;
   font-size: 18px;
   margin-bottom: 26px;
   margin-top: 26px;
+  margin-right: 100px;
 }
 
 /* services section css  */
