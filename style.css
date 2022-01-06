@@ -40,7 +40,10 @@ body {
 .align-center {
   text-align: center;
 }
-
+.hero img {
+  height: auto;
+  max-width: 90%;
+}
 img {
   height: auto;
   max-width: 100%;
