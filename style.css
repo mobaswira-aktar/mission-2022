@@ -92,3 +92,46 @@ img {
   margin-bottom: 26px;
   margin-top: 26px;
 }
+
+/* services section css  */
+.title {
+  color: #333333;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+.box {
+  padding: 40px 35px;
+  border-radius: 20px;
+  background: #fafafa;
+  margin-bottom: 30px;
+  margin: 15px;
+}
+.box img {
+  max-height: 80px;
+}
+.box h3 {
+  color: #333333;
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.box p {
+  color: #353535;
+  font-size: 16px;
+  margin: 0;
+}
+.bg-box-1 {
+  background: #f8e3ff;
+}
+
+.bg-box-2 {
+  background: #e5ecff;
+}
+
+.bg-box-3 {
+  background: #ffefd8;
+}
