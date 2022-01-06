@@ -135,3 +135,11 @@ img {
 .bg-box-3 {
   background: #ffefd8;
 }
+
+/* section 3 & 4 margin  */
+.section3 {
+  margin: 100px 0px;
+}
+.section4 {
+  margin: 100px 0px;
+}
